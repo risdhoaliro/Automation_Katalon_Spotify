@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_song</name>
+   <tag></tag>
+   <elementGuidId>8431c094-dc0a-47f3-93ad-cef425624d2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='YOASOBI'])[2]/preceding::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.Svg-sc-ytk21e-0.uPxdw.UIBT7E6ZYMcSDl1KL62g</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Svg-sc-ytk21e-0 uPxdw UIBT7E6ZYMcSDl1KL62g</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-encore-id</name>
+      <type>Main</type>
+      <value>icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;Root encore-dark-theme&quot;]/div[@class=&quot;Root__top-container&quot;]/div[@class=&quot;Root__main-view&quot;]/div[@class=&quot;main-view-container&quot;]/div[@class=&quot;os-host os-host-foreign os-theme-spotify os-host-resize-disabled os-host-scrollbar-horizontal-hidden main-view-container__scroll-node os-host-transition os-host-overflow os-host-overflow-y&quot;]/div[@class=&quot;os-padding&quot;]/div[@class=&quot;os-viewport os-viewport-native-scrollbars-invisible&quot;]/div[@class=&quot;os-content&quot;]/div[@class=&quot;main-view-container__scroll-node-child&quot;]/main[1]/section[@class=&quot;dZ3U5sTGUTdanNamXe1z&quot;]/div[@class=&quot;contentSpacing&quot;]/div[@class=&quot;ShMHCGsT93epRGdxJp2w Ss6hr6HYpN4wjHJ9GHmi&quot;]/div[@class=&quot;JUa6JJNj7R_Y3i4P8YUX&quot;]/div[2]/div[1]/div[@class=&quot;h4HgbO_Uu1JYg5UGANeQ wTUruPetkKdWAR1dd6w4&quot;]/div[@class=&quot;NZAU7CsuZsMeMQB8zYUu&quot;]/div[@class=&quot;VpYFchIiPg3tPhBGyynT&quot;]/button[@class=&quot;RfidWIoz8FON2WhFoItU&quot;]/svg[@class=&quot;Svg-sc-ytk21e-0 uPxdw UIBT7E6ZYMcSDl1KL62g&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date added'])[1]/following::*[name()='svg'][2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Album'])[1]/following::*[name()='svg'][2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='たぶん'])[1]/preceding::*[name()='svg'][1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YOASOBI'])[1]/preceding::*[name()='svg'][1]</value>
+   </webElementXpaths>
+</WebElementEntity>
